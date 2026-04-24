@@ -14,7 +14,7 @@ body {
 }
 
 a {
-  color: #26890d;
+  color: #85086c;
 }
 a:hover, a:focus {
   color: #046a38;
@@ -70,8 +70,8 @@ a:hover, a:focus {
   }
 }
 .responsive-table thead th {
-  background-color: #26890d;
-  border: 1px solid #86bc25;
+  background-color: #85086c;
+  border: 1px solid #8d0f98;
   font-weight: normal;
   text-align: center;
   color: white;
@@ -166,13 +166,13 @@ a:hover, a:focus {
   }
 }
 .responsive-table tbody th[scope=row] {
-  background-color: #26890d;
+  background-color: #85086c;
   color: white;
 }
 @media (min-width: 30em) {
   .responsive-table tbody th[scope=row] {
-    border-left: 1px solid #86bc25;
-    border-bottom: 1px solid #86bc25;
+    border-left: 1px solid #8d0f98;
+    border-bottom: 1px solid #8d0f98;
   }
 }
 @media (min-width: 48em) {
@@ -187,14 +187,14 @@ a:hover, a:focus {
 }
 @media (min-width: 48em) {
   .responsive-table tbody td {
-    border-left: 1px solid #86bc25;
-    border-bottom: 1px solid #86bc25;
+    border-left: 1px solid #8d0f98;
+    border-bottom: 1px solid #8d0f98;
     text-align: center;
   }
 }
 @media (min-width: 48em) {
   .responsive-table tbody td:last-of-type {
-    border-right: 1px solid #86bc25;
+    border-right: 1px solid #8d0f98;
   }
 }
 .responsive-table tbody td[data-type=currency] {

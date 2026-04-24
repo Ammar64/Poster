@@ -1,138 +1,81 @@
 [
     {
-        "name": "Habiba Kandil",
-        "roles": [
-            "Designer",
-            "Summarizer",
-            "Images collector"
-        ]
-    },
-    {
         "name": "Ammar Ramadan",
         "roles": [
-            "Web developer",
-            "Designer",
-            "Images collector"
-        ]
-    },
-    {
-        "name": "Mohammed Mesbah",
-        "roles": [
             "Presenter",
-            "Designer"
+            "QR Code"
         ]
     },
     {
-        "name": "Eman Mohammed",
+        "name": "Mohamed Sabah",
         "roles": [
-            "Presenter",
-            "Designer"
+            "Data collection"
         ]
     },
     {
-        "name": "Mazen Salah",
-        "roles": [
-            "Designer",
-            "Images collector"
-        ]
-    },
-    {
-        "name": "Eman Ali",
-        "roles": [
-            "Designer",
-            "Images collector"
-        ]
-    },
-    {
-        "name": "Hagar Amr",
-        "roles": [
-            "Researcher",
-            "Reviewer"
-        ]
-    },
-    {
-        "name": "Mariam Magdy",
-        "roles": [
-            "Presenter",
-            "Reviewer"
-        ]
-    },
-    {
-        "name": "Omar AlHadary",
+        "name": "Renad Ayman",
         "roles": [
             "Presenter"
         ]
     },
     {
-        "name": "Dareen Amr",
+        "name": "Mohammed Ibrahim",
+        "roles": [
+            "Printing"
+        ]
+    },
+    {
+        "name": "Zeyad Elsayed",
         "roles": [
             "Presenter"
         ]
     },
     {
-        "name": "Heba Mohammed",
+        "name": "Amr Taha",
         "roles": [
-            "Reseacher"
+            "Data collection"
         ]
     },
     {
-        "name": "Nadeen Ayman",
+        "name": "Tony aldeeb",
         "roles": [
             "Presenter"
         ]
     },
     {
-        "name": "Eman Ashraf",
+        "name": "Ahmed Mustafa",
         "roles": [
-            "Reseacher"
+            "Summary"
         ]
     },
     {
-        "name": "Aya Mohammed",
+        "name": "Menna Mohammed",
         "roles": [
-            "Designer"
+            "Summary"
         ]
     },
     {
-        "name": "Raghad Alaa",
-        "roles": [
-            "Images collector"
-        ]
-    },
-    {
-        "name": "Ali Ahmed",
-        "roles": [
-            "Images collector"
-        ]
-    },
-    {
-        "name": "Nour Magdy",
-        "roles": [
-            "Images collector"
-        ]
-    },
-    {
-        "name": "Mahmoud Reda",
+        "name": "Noha Diaa",
         "roles": [
             "Presenter"
         ]
     },
     {
-        "name": "Anwar Yahya",
+        "name": "Abdalla Mohamed",
         "roles": [
-            "Designer"
+            "Printing"
         ]
     },
     {
-        "name": "Ahmed Abdulhameed",
+        "name": "Hamdy Baligh",
         "roles": [
-            "Print poster"
+            "Summary"
         ]
     },
     {
-        "name": "Ahmed Tawfiq",
+        "name": "Lamar Mohammed",
         "roles": [
-            "Print poster"
+            "Presenter"
         ]
     }
 ]
